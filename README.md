@@ -51,7 +51,7 @@ Operations that are submitted to queues are executed asynchronously. Therefore w
 
 So in short, to draw the first triangle we need to:
 
-*Create a VkInstance
+Create a VkInstance
 
 Select a supported graphics card (VkPhysicalDevice)
 
